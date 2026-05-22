@@ -1,16 +1,16 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there 👋
 
-<!--
-**Presha742/Presha742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Presha Vaishnav — a Computer Science student and a Software Engineer passionate about Python, Data Analytics, and building real-world tech solutions.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning and exploring Machine Learning, Data Analytics & Project Management
+- 💻 Skilled in Python, MySQL, Power BI, Git, HTML, CSS & JavaScript
+- 📊 Interested in Data Analysis, Predictive Modeling & Problem Solving
+- 🤝 Experienced in Team Collaboration, Project Coordination & Agile Workflows
+- 🎯 Passionate about building impactful and innovative tech solutions
+- ⚡ Fun fact: If I am not coding or working then I am probably playing games with my friends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prechaaaaaa__02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/p-v-7r13p26)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vaishnavpresha123@gmail.com)
