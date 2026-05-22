@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there 👋
 
-I'm Presha Vaishnav — a Computer Science student and a Software Engineer passionate about Python, Data Analytics, and building real-world tech solutions.
+I'm Presha Vaishnav — a Computer Science student and a Software Engineer passionate about developing and building real-world tech solutions.
 
 - 🌱 Currently learning and exploring Machine Learning, Data Analytics & Project Management
 - 💻 Skilled in Python, MySQL, Power BI, Git, HTML, CSS & JavaScript
